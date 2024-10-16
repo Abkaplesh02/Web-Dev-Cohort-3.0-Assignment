@@ -1,0 +1,442 @@
+body{
+    background-color:#0D1117 ;
+    color: white;
+    
+}
+
+
+
+/* Navbar CSS */
+
+#MainNav{
+    
+    padding-left: 140px;
+    display: flex;
+    padding-right: 140px;
+    justify-content: space-between;
+    
+    
+    
+}
+
+#ImageSpan{
+    height: 35px;
+    padding-top: 0px;
+}
+
+#Nav1{
+      padding-bottom: 10px;
+      cursor: pointer;
+}
+
+.Navii:hover{
+    color: white;
+}
+
+#Nav2{
+   padding-top: 10px;
+   
+}
+
+.Navi{
+    padding-left: 20px;
+    font-size: medium;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+
+.Navii{
+    color:#9ba3b4;
+}
+
+#VS{
+    font-size: x-large;
+    padding-left: 5px;
+}
+
+#DownloadButton{
+    font-size: medium;
+    padding: 6px 16px;
+    background-color: #0078d4;
+    color: white;
+    border-color: #0D1117;
+    border-width: 1px;
+    border-radius: 7px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    
+}
+#SearchInput{
+    font-size: medium;
+    background-color: #0D1117;
+    color: #9ba3b4;
+    padding: 6px 16px;
+    padding-right: 0;
+    padding-left: 40px;
+    border-color: #9ba3b4;
+    border-width: 0.5px;
+    border-radius: 7px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+
+#BrightImage{
+    padding-right: 5px;
+    padding-top: 5px;
+}
+
+
+
+/* Navbar CSS Ends  */
+
+
+/* Body CSS Starts */
+
+/* Body content 1 */
+
+
+#Body1{
+    padding-top: 30px;
+    color: #9ba3b4;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    display: flex;
+    justify-content: center;
+    /* position: relative; */
+
+}
+
+#A1{
+    color: #0078d4;
+
+}
+
+
+/* Body Content 2 */
+
+#Body2{
+    font-size:78px;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+
+
+/* Body content 3 */
+
+#Body3{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    color: #9ba3b4;
+    font-size: 28px;
+    padding-top: 10px;
+    padding-left: 405px;
+    padding-right: 360px;
+    text-align: center;
+    
+}
+
+/* Body content 4 */
+
+#Body4{
+    padding-top: 40px;
+display: flex;
+justify-content: center;
+
+}
+#WindowsDown{
+    font-size: medium;
+    padding: 6px 16px;
+    background-color: #0078d4;
+    color: white;
+    border-color: #0D1117;
+    border-width: 1px;
+    border-radius: 7px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    
+}
+#GitHub{
+    font-size: medium;
+    padding: 6px 16px;
+    background-color: #333;
+    color: white;
+    border-color: #0D1117;
+    border-width: 1px;
+    border-radius: 7px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    margin-left: 8px;
+}
+
+/* Body content 5 */
+
+#Body5{
+display: flex;
+justify-content: center;
+padding-top: 50px;
+
+}
+
+#BodyImg{
+height: 800px;
+}
+
+/* Body content 6 */
+
+#Body6{
+display: flex;
+justify-content: space-between;
+padding-left: 130px;
+padding-top: 120px;
+}
+
+#Body61{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    color: #9ba3b4;
+    padding-right: 90px;
+    font-size: medium;
+}
+
+#H1H{
+    font-size: 28px;
+    color: white;
+}
+.Body61A{
+    color: #0078d4;
+}
+
+#Body62{
+margin-right: 120px;
+}
+
+#Body62Img{
+    padding-top: 24px;
+    height: 450px;
+}
+
+
+/* Body content 7 */
+
+
+#Body7{
+padding-top: 120px;
+display: flex;
+justify-content: space-between;
+padding-left: 220px;
+padding-right: 280px;
+font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+
+#Body71{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    color: #9ba3b4;
+    /* padding-right: 90px; */
+    font-size: medium;
+    line-height: 25px;
+    width: 350px;
+    margin-left: -100px;
+}
+
+#Body71H{
+    font-size: 28px;
+    color: white;
+}
+
+.BodyC{
+
+    height: 30px;
+}
+
+
+#Body72{
+   /* margin-right: 170px; */
+
+}
+
+#Body72 li{
+    list-style: none;
+    font-size: medium;
+    line-height: 50px;
+}
+
+#Body73{
+/* margin-right: 170px; */
+}
+
+#Body73 li{
+    list-style: none;
+    font-size: medium;
+    line-height: 50px;
+}
+
+#Body74{
+/* margin-right: 270px; */
+
+}
+
+#Body74 li{
+    list-style: none;
+    font-size: medium;
+    line-height: 50px;
+}
+
+
+/* Body content 8 */
+
+#Body8{
+display: flex;
+justify-content: space-between;
+padding-top: 120px;
+font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    color: #9ba3b4;
+}
+
+#Body81{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    color: #9ba3b4;
+    font-size: medium;
+    line-height: 25px;
+    width: 350px;
+    margin-left: 120px;
+    
+
+    
+
+}
+#Body81H{
+    font-size: 28px;
+    color: white;
+
+}
+
+#Body81A{
+    color: #0078d4;
+}
+
+#Body82{
+    
+    display: grid;
+}
+
+#Body83{
+    display: grid;
+}
+
+#Body84{
+    display: grid;
+   
+}
+.ExtensionPics{
+    height: 80px;
+    padding-right: 10px;
+    width: 100px;
+}
+.Boxes{
+
+    border: #333;
+    border-width: 1px;
+    border-radius: 5px;
+    background-color: #333;
+    width: 250px;
+}
+
+
+/* Body content 9 */
+
+#Body9{
+   display: flex;
+   justify-content: space-between;
+   padding-top: 120px;
+}
+
+
+#Body91{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    color: #9ba3b4;
+    font-size: medium;
+    line-height: 25px;
+    margin-left: 130px;
+    padding-right: 80px;
+}
+.Body91A{
+    color: #0078d4;
+}
+#Body91H{
+    font-size: 32px;
+    color: white;
+    
+}
+
+#Body92{
+
+margin-right: 130px;
+}
+
+#Body92Img{
+    padding-top: 24px;
+    height: 450px;
+}
+
+
+/* Body content 10 */
+
+#Body10{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 120px;
+ }
+ 
+ 
+ #Body101{
+     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+     color: #9ba3b4;
+     font-size: medium;
+     line-height: 25px;
+     margin-left: 130px;
+     padding-right: 90px;
+ }
+ .Body101A{
+     color: #0078d4;
+ }
+ #Body101H{
+     font-size: 32px;
+     color: white;
+     
+ }
+ 
+ #Body102{
+ 
+ margin-right: 130px;
+ }
+ 
+ #Body102Img{
+     padding-top: 24px;
+     height: 480px;
+ }
+
+
+ /* Body content 11 */
+
+ #Body11{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+     color: white;
+     font-size: 30px;
+     display: flex;
+     justify-content: center;
+     padding-top: 130px;
+ }
+
+ /* Body content 12 */
+
+ #Body12{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+     color: #9ba3b4;
+     /* width: 500px; */
+     font-size: medium;
+     display: flex;
+     justify-content: center;
+     padding-top: 20px;
+     padding-left: 500px;
+     padding-right: 500px;
+     text-align: center;
+    
+     
+
+ }
+
+
